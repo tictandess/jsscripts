@@ -4,6 +4,7 @@ function sayHello() {
   
   setTimeout(function(){ console.log(document.querySelectorAll('[data-obid]')); }, 4000);
 
-  
+  console.log("Hello aus Github zum Ende");
+
 
 }
